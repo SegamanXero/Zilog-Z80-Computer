@@ -1,0 +1,12 @@
+Objective: To build a computer that encompases the following hardware and tech.
+
+-CPU:Z80 CPU and Z80 SIO2?
+-Sound: General Instrument AY-3-8910 or Yamaha YM2149F
+-Ram: 64kb (target max supported by Z80)
+-Rom: 64kb???
+
+Make compatible with VGA and RCA for AV, and PS/2 or maybe USB for keyboard?
+
+Rom loaded with monitor, CP/M, and maybe Microsoft Basic.
+Interface with a CF or SD card for modern substitute for Disk or Tape I/O to load or save other files and applications such as Wordstar or games.
+Conectivity via serial for termal access to transfer and manage stuff as well.
